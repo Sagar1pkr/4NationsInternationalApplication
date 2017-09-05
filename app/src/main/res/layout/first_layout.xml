@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:text="WELCOME TO 4NATIONS!
+
+Whether you wish to study in Australia, New Zealand and Canada, migrate as skilled worker, Sponsor overseas worker/s, get sponsorship or buy or establish a business, we can help you achieve your goal. Our qualified, experienced and professional team at 4Nations has already helped many people like you. Beginning with the right advice at the first visit until you arrive and start life in the country of your choice, we will be with you at every stage of your transition for professional help. Simply talking to us could save you time, money and make your life easier."
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="14sp" />
+
+</RelativeLayout>
